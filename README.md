@@ -11,5 +11,6 @@ A bash completion script for [virtualenv](https://github.com/pypa/virtualenv).
 ## Usage
 
 To list virtualenv's options:
+
     $ virtualenv -[TAB][TAB]    # list all options
     $ virtualenv --no[TAB]      # complete to '--no-site-packages'
